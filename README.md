@@ -2,7 +2,7 @@
 
 <p align="center">
   🔭 I’m currently working on <a href="https://github.com/jnsbdev/roster-coaster" target="_blank">my capstone project</a><br>
-  🌱 I’m passionate about full-stack development, cloud technologies, and building scalable applications.<br>
+  🌱 Full-stack developer passionate about frontend & backend. I thrive on solving complex problems with creative solutions.<br>
 </p>
 
 ---
